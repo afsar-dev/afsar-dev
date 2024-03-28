@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afsar Mahmud</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="left" src="https://news.mit.edu/sites/default/files/images/202012/MIT-Coding-Brain-01-press.jpg" width="400" alert="Codeing"/>
+<img align="right" src="https://news.mit.edu/sites/default/files/images/202012/MIT-Coding-Brain-01-press.jpg" width="400" alert="Codeing"/>
 - 🔭 I’m currently working on [Book vite](https://kaleidoscopic-longma-154be4.netlify.app/)
 
 - 🌱 I’m currently learning **React js**
