@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [aFruits](https://unrivaled-hamster-df6d4d.netlify.app)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Firebase**
 
 - 📫 How to reach me **mdafsar99009@gmail.com**
 
