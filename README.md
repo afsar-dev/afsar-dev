@@ -8,13 +8,13 @@
 
 <h2 align="center">FRONT-END-DEVELOPER | PASSIONATE ABOUT SE</h3>
 
-- 👨‍💻 All of my projects are available at [https://unrivaled-hamster-df6d4d.netlify.app/](https://unrivaled-hamster-df6d4d.netlify.app/)
+- 👨‍💻 All of my projects are available at ........
 
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **mdafsar99009@gmail.com**
 
-- 📄 Know about my experiences [afsar.com](afsar.com)
+- 📄 Know about my experiences .......
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
