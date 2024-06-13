@@ -38,11 +38,11 @@
 
 ###
 
-<div style="display:flex"><p><img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdafsarx&show_icons=true&locale=en&layout=compact" alt="mdafsarx" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdafsarx&show_icons=true&locale=en" alt="mdafsarx"  width="33%" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&" alt="mdafsarx"  width="33%"/></p>
+<div style="display:flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdafsarx&show_icons=true&locale=en&layout=compact" alt="mdafsarx" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdafsarx&show_icons=true&locale=en" alt="mdafsarx" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&" alt="mdafsarx" width="33%" />
 </div>
+
 
 
