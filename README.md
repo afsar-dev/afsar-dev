@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">FRONT-END-DEVELOPER | PASSIONATE ABOUT SE</h3>
+<h2 align="left">FRONT-END-DEVELOPER | PASSIONATE ABOUT SE</h3>
 
 - 👨‍💻 All of my projects are available at [https://unrivaled-hamster-df6d4d.netlify.app/](https://unrivaled-hamster-df6d4d.netlify.app/)
 
