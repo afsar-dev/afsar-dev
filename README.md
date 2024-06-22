@@ -24,9 +24,10 @@
 
 <h2 style="text-align: center;">📊 GitHub Stats:</h2>
 
-![mdafsarx's Stats](https://github-readme-stats.vercel.app/api?username=mdafsarx&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+<div>
+  ![mdafsarx's Stats](https://github-readme-stats.vercel.app/api?username=mdafsarx&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![mdafsarx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true)
-
+</div>
 <hr>
 
 <div style="text-align: center; margin-top: 20px;">
