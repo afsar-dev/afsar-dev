@@ -15,7 +15,28 @@
 - 📄 Know about my experiences .......
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a) 
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61554716528686&.id=61554716528686">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.linkedin.com/in/md-afsar-mahmud">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/25553736/md-afsar?tab=profile">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://x.com/MDAFSARX">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+</a>
+<a href="https://www.youtube.com/channel/UCfokMm6sYTLAP1_071QLrEA">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://dribbble.com/a">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?logo=dribbble&logoColor=white" alt="Dribbble" />
+</a>
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
