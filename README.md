@@ -25,19 +25,8 @@
 <h2 style="text-align: center;">📊 GitHub Stats:</h2>
 
 ![mdafsarx's Stats](https://github-readme-stats.vercel.app/api?username=mdafsarx&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdafsarx&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  </div>
-  <br/>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  </div>
-  <br/>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdafsarx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
-</div>
+![mdafsarx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true)
+![mdafsarx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdafsarx&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
 
