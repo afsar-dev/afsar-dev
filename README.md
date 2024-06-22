@@ -24,10 +24,11 @@
 
 <h2 style="text-align: center;">📊 GitHub Stats:</h2>
 
-<div style="display:flex; justify-content:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdafsarx&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="mdafsarx's Stats" width="50%">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" style="max-width: 50%; flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdafsarx&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="mdafsarx's Stats" style="max-width: 50%; flex: 1;">
 </div>
+
 
 <hr>
 
