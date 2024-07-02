@@ -43,7 +43,7 @@
 
 <h2 style="text-align:center;">🔥 GitHub Stats:</h2>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" hight="200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" >
 </div>
 
  ## 💳💰
