@@ -7,7 +7,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" height="200" >
 </div>
 <h1 align="center">About Me</h1>
-A dedicated Front-end Developer with a strong passion for mastering the MERN stack. I am truly in love with software development and enjoy turning complex problems into simple, beautiful, and intuitive designs.I am always eager to learn new technologies and collaborate on exciting projects. Feel free to check out my repositories and get in touch if you want to collaborate or chat about tech!
+
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
+
+- 🌱 I’m currently learning: Next.js and boostrap  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
 <br>
 
 <h1 align="center">Currently exploring
