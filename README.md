@@ -4,9 +4,7 @@
 
 
 
-###
-
-<h2 align="center">FRONT-END-DEVELOPER | PASSIONATE ABOUT SE</h3>
+<h2>I'm Md Afsar Mahmud</h3>
 
 - 💬 Ask me about **javascript**
 
