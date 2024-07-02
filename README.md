@@ -13,7 +13,7 @@ A dedicated Front-end Developer with a strong passion for mastering the MERN sta
 <h1 align="center">Currently exploring
 </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,git,github,firebase,nodejs,expressjs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nextjs,git,github,firebase,nodejs,expressjs,mongodb,figma,visualcode" />
   </a>
 <br/>
 
