@@ -1,5 +1,5 @@
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/IshakQuresheeAkib/IshakQuresheeAkib/main/images/banner.png)
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Mdafsarx/Mdafsarx/Olivia Wilson (3).png)
 <hr>
 
 # 🙋🏻‍♂️ Hi! I'm [Ishak Qureshee Akib](https://ishak-qureshee-akib.netlify.app/ "Portfolio")  ,
