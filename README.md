@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" width="100%" src="https://i.postimg.cc/NM3jkJkr/Olivia-Wilson-3.png"  />
+  <img height="400" width="100%" src="https://i.postimg.cc/NM3jkJkr/Olivia-Wilson-3.png"  />
 </div>
 
 
