@@ -1,9 +1,9 @@
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Mdafsarx/Mdafsarx/Olivia Wilson (3).png)
-<hr>
+![Frontend development](https://raw.githubusercontent.com/Mdafsarx/Mdafsarx/main/Olivia%20Wilson%20(3).png)
 
-# 🙋🏻‍♂️ Hi! I'm [Ishak Qureshee Akib](https://ishak-qureshee-akib.netlify.app/ "Portfolio")  ,
-A Front-end Developer with a strong passion for mastering the MERN stack. Despite pursuing Zoology in undergrad, my true love is software development. Recently, I completed a web development course at Programming Hero.
+
+#  👽 Hi! I'm [Md Afsar Mahmud]() 
+A dedicated Front-end Developer with a strong passion for mastering the MERN stack.I am truly in love with software development.
 <br>
 
 ## How to reach me: [akibqureshee11@gmail.com](mailto:akibqureshee11@gmail.com "Email Me") 
