@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [One-build](https://resplendent-cranachan-4047db.netlify.app)  
   
 
-- 🌱 I’m currently learning: Next.js and boostrap  
+- 💻 I’m currently learning: Next.js and boostrap  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
 <br>
 
-<h1 align="center">Currently exploring
+<h1 align="center">Currently exploring ⏳
 </h1>
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nextjs,git,github,firebase,nodejs,expressjs,mongodb,figma,vscode" />
