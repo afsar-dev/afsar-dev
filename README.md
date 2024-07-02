@@ -3,7 +3,7 @@
 
 
 #  👽 Hi! I'm [Md Afsar Mahmud]() 
-A dedicated Front-end Developer with a strong passion for mastering the MERN stack.I am truly in love with software development.
+A dedicated Front-end Developer with a strong passion for mastering the MERN stack. I am truly in love with software development and enjoy turning complex problems into simple, beautiful, and intuitive designs.I am always eager to learn new technologies and collaborate on exciting projects. Feel free to check out my repositories and get in touch if you want to collaborate or chat about tech!
 <br>
 
 ## How to reach me: [akibqureshee11@gmail.com](mailto:akibqureshee11@gmail.com "Email Me") 
