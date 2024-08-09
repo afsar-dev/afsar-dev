@@ -16,8 +16,6 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
 <br>
 
 <h1 align="center">Currently exploring ⏳
