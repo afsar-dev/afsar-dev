@@ -41,10 +41,10 @@
       <td><code><img width="80" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase"/></code></td>
+      <td><code><img width="80" src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextauth" title="nextauth"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></code></td>
-      <td><code><img width="80" src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/></code></td>
     </tr>
   </table>
 </div>
