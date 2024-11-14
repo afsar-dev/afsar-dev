@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FRONTEND+DEVELOPER;JAVASCRIPT+DEVELOPER;REACT+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER&center=true&size=20" alt="Typing SVG" />
   </a>
 </h1>
-
+ 
 <h2 style="text-align:center;" align="center">PASSIONATE ABOUT SOFTWARE ENGINEER 💻</h2>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" height="200" >
