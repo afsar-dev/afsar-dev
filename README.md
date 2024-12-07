@@ -13,10 +13,10 @@
 </div>
 <h1 align="center">About Me</h1>
 
-- 🔭 I’m currently working on [One-build](https://resplendent-cranachan-4047db.netlify.app)  
+- 🔭 I’m currently working on [Twist](https://twistt.netlify.app/)  
   
 
-- 💻 I’m currently learning: Next.js and boostrap  
+- 💻 I’m currently learning: Typescript 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
