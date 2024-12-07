@@ -34,12 +34,12 @@
       <td><code><img width="80" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"/></code></td>
+      <td><code><img width="80" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></code></td>
-      <td><code><img width="80" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></code></td>
     </tr>
-    <tr>
-      <td><code><img width="80" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code></td>
-      <td><code><img width="80" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code></td>
+    <tr>      
+      <td><code><img width="80" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></code></td>
+      <td><code><img width="80" src="https://skillicons.dev/icons?i=jest" alt="jest" title="jest"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase"/></code></td>
       <td><code><img width="80" src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextauth" title="nextauth"/></code></td>
       <td><code><img width="80" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></code></td>
