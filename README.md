@@ -7,7 +7,6 @@
   </a>
 </h1>
  
-<h2 style="text-align:center;" align="center">PASSIONATE ABOUT SOFTWARE ENGINEER 💻</h2>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" height="200" >
 </div>
