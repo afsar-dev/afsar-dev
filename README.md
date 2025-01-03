@@ -10,16 +10,7 @@
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" height="200" >
 </div>
-<h1 align="center">About Me</h1>
 
-- 🔭 I’m currently working on [Twist](https://twistt.netlify.app/)  
-  
-
-- 💻 I’m currently learning: Typescript 
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 <br>
 
 <h1 align="center">Currently exploring ⏳
