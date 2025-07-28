@@ -4,11 +4,10 @@ class Developer {
   role = "Fullstack Developer";
   location = "Sylhet, Bangladesh";
 
-  languages = ["JavaScript", "TypeScript"];
-  frontend = ["Sass", "Tailwind", "Redux", "React.js", "Next.js", "Gsap"];
-  backend = ["Node.js", "Express.js", "Mongoose", "SQL"];
-  databases = ["MongoDB", "PostgreSQL"];
-  tools = ["Firebase", "Stripe", "Linux", "Jwt","Dockar"];
+  softSkills = ["Teamwork", "Leadership", "Time management", "Communication"];
+  projects = ["Bookify", "Nurui"];
+  openSource = true;
+  contentCreator = true
 
   sayHi(): void {
     console.log("Check out my projects and contributions below. 💻");
