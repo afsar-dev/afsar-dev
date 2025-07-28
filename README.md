@@ -7,7 +7,7 @@
 </h1>
  
 
-| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=trueshow_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&) |
 | --- | --- |
 
 <br>
