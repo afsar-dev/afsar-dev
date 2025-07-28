@@ -8,7 +8,6 @@
 class Developer {
   name = "Md Afsar Mahmud";
   role = "Fullstack Developer";
-  softSkills = ["Teamwork", "Leadership", "Time management", "Communication", "Fast learner"];
   projects = ["Bookify", "Nur UI"];
   openSource = true;
   contentCreator = true
