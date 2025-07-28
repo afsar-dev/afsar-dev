@@ -1,4 +1,21 @@
-![Frontend development](https://raw.githubusercontent.com/Mdafsarx/Mdafsarx/main/Olivia%20Wilson%20(3).png)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Phát Đặng"
+        self.role = "Odoo Specialist & Python Engineer"
+        self.youtube_channel = "DevOdoo"
+        self.language_spoken = ["Vietnamese", "English"]
+        self.code = ["Python", "JavaScript", "SQL", "XML"]
+        self.specialties = ["Odoo ERP", "Business Automation", "System Integration"]
+        self.content_creator = True
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Don't forget to check out my DevOdoo YouTube channel! 🎥")
+
+me = Developer()
+me.say_hi()
+```
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
