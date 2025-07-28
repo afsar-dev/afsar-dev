@@ -5,9 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FRONTEND+DEVELOPER;JAVASCRIPT+DEVELOPER;REACT+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER&center=true&size=20" alt="Typing SVG" />
   </a>
 </h1>
- 
 
-| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=trueshow_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&) |
+
+ 
+## :chart_with_upwards_trend: Current Stats
+
+| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=trueshow_icons=true&hide=&count_private=true&title_color=E10098&text_color=80eeb4&icon_color=6366f1&bg_color=000000) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false&stroke=ffffff&background=000000&ring=E10098&fire=F75701&currStreakNum=E10098&currStreakLabel=E10098&sideNums=80eeb4&sideLabels=80eeb4&dates=ffffff&) |
 | --- | --- |
 
 <br>
@@ -19,7 +22,7 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>Database</th>
-    <th>Tools & Platforms</th>
+    <th>Others</th>
   </tr>
   <tr>
     <td>
