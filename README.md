@@ -1,20 +1,22 @@
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Phát Đặng"
-        self.role = "Odoo Specialist & Python Engineer"
-        self.youtube_channel = "DevOdoo"
-        self.language_spoken = ["Vietnamese", "English"]
-        self.code = ["Python", "JavaScript", "SQL", "XML"]
-        self.specialties = ["Odoo ERP", "Business Automation", "System Integration"]
-        self.content_creator = True
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-        print("Don't forget to check out my DevOdoo YouTube channel! 🎥")
+```ts
+class Developer {
+  name = "Md Afsar Mahmud";
+  role = "Fullstack Developer";
+  location = "Sylhet, Bangladesh";
 
-me = Developer()
-me.say_hi()
+  languages = ["JavaScript", "TypeScript"];
+  frontend = ["Sass", "Tailwind", "Redux", "React.js", "Next.js", "Gsap"];
+  backend = ["Node.js", "Express.js", "Mongoose", "SQL"];
+  databases = ["MongoDB", "PostgreSQL"];
+  tools = ["Firebase", "Stripe", "Linux", "Jwt","Dockar"];
+
+  sayHi(): void {
+    console.log("Check out my projects and contributions below. 💻");
+  }
+}
+
+const me = new Developer();
+me.sayHi();
 ```
 
 <h1 align="center">
