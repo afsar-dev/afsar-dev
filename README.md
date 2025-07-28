@@ -1,5 +1,3 @@
-
-       
 ![Frontend development](https://raw.githubusercontent.com/Mdafsarx/Mdafsarx/main/Olivia%20Wilson%20(3).png)
 
 <h1 align="center">
@@ -8,9 +6,9 @@
   </a>
 </h1>
  
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarx&theme=highcontrast&hide_border=true" alt="mdafsarx's Streak" width="100%" height="200" >
-</div>
+
+| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false) |
+| --- | --- |
 
 <br>
 
@@ -58,7 +56,6 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </td>
-    
   </tr>
 </table>
 
