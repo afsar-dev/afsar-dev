@@ -23,7 +23,7 @@ me.sayHi();
 
 ## :chart_with_upwards_trend: Current Stats
 
-| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=trueshow_icons=true&hide=&count_private=true&title_color=E10098&text_color=80eeb4&icon_color=6366f1&bg_color=000000) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false&stroke=ffffff&background=000000&ring=E10098&fire=F75701&currStreakNum=E10098&currStreakLabel=E10098&sideNums=80eeb4&sideLabels=80eeb4&dates=ffffff&) |
+| ![](https://github-readme-stats.vercel.app/api?username=afsar-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=trueshow_icons=true&hide=&count_private=true&title_color=E10098&text_color=80eeb4&icon_color=6366f1&bg_color=000000) | ![](https://github-readme-streak-stats.herokuapp.com/?user=afsar-dev&theme=material-palenight&hide_border=false&stroke=ffffff&background=000000&ring=E10098&fire=F75701&currStreakNum=E10098&currStreakLabel=E10098&sideNums=80eeb4&sideLabels=80eeb4&dates=ffffff) |
 | --- | --- |
 
 <br>
